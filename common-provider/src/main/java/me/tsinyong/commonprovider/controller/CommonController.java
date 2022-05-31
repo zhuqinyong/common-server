@@ -1,4 +1,4 @@
-package me.tsinyong.common.server.controller;
+package me.tsinyong.commonprovider.controller;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
